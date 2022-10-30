@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: montserrat, sans-serif;
+  font-family: sans-serif;
 }
 
 header {
@@ -29,7 +29,7 @@ header:after {
   right: 0;
   bottom: 0;
   z-index: 0;
-  background-color: rgba(34, 34, 34, 0.5);
+  background-color: rgba(34, 34, 34, 0.2);
 }
 header .content {
   position: relative;
@@ -38,10 +38,10 @@ header .content {
 header .content h1 {
   color: #FFF;
   font-size: 30px;
-  font-weight: 900;
+  font-weight: 100;
 }
 header .content h1 span {
-  font-weight: 400;
+  font-weight: 100;
 }
 @media screen and (min-width: 480px) {
   header .content h1 {
@@ -92,7 +92,7 @@ header .content h2 {
 header .content .countdown {
   color: #FFF;
   font-size: 36px;
-  font-weight: 400;
+  font-weight: 100;
 }
 @media screen and (min-width: 480px) {
   header .content .countdown {
