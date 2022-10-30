@@ -45,22 +45,22 @@ header .content h1 span {
 }
 @media screen and (min-width: 480px) {
   header .content h1 {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 768px) {
   header .content h1 {
-    font-size: 42px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1024px) {
   header .content h1 {
-    font-size: 56px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1280px) {
   header .content h1 {
-    font-size: 72px;
+    font-size: 30px;
   }
 }
 header .content h2 {
@@ -71,22 +71,22 @@ header .content h2 {
 }
 @media screen and (min-width: 480px) {
   header .content h2 {
-    font-size: 56px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 768px) {
   header .content h2 {
-    font-size: 72px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1024px) {
   header .content h2 {
-    font-size: 96px;
+    font-size: 30px;
   }
 }
 @media screen and (min-width: 1280px) {
   header .content h2 {
-    font-size: 128px;
+    font-size: 30px;
   }
 }
 header .content .countdown {
@@ -96,22 +96,22 @@ header .content .countdown {
 }
 @media screen and (min-width: 480px) {
   header .content .countdown {
-    font-size: 42px;
+    font-size: 36px;
   }
 }
 @media screen and (min-width: 768px) {
   header .content .countdown {
-    font-size: 56px;
+    font-size: 36px;
   }
 }
 @media screen and (min-width: 1024px) {
   header .content .countdown {
-    font-size: 72px;
+    font-size: 36px;
   }
 }
 @media screen and (min-width: 1280px) {
   header .content .countdown {
-    font-size: 88px;
+    font-size: 36px;
   }
 }
 
