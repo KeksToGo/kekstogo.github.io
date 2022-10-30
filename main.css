@@ -37,7 +37,7 @@ header .content {
 }
 header .content h1 {
   color: #FFF;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 100;
 }
 header .content h1 span {
@@ -45,22 +45,22 @@ header .content h1 span {
 }
 @media screen and (min-width: 480px) {
   header .content h1 {
-    font-size: 30px;
+    font-size: 50px;
   }
 }
 @media screen and (min-width: 768px) {
   header .content h1 {
-    font-size: 30px;
+    font-size: 50px;
   }
 }
 @media screen and (min-width: 1024px) {
   header .content h1 {
-    font-size: 30px;
+    font-size: 50px;
   }
 }
 @media screen and (min-width: 1280px) {
   header .content h1 {
-    font-size: 30px;
+    font-size: 50px;
   }
 }
 header .content h2 {
@@ -91,27 +91,27 @@ header .content h2 {
 }
 header .content .countdown {
   color: #FFF;
-  font-size: 36px;
+  font-size: 55px;
   font-weight: 100;
 }
 @media screen and (min-width: 480px) {
   header .content .countdown {
-    font-size: 36px;
+    font-size: 55px;
   }
 }
 @media screen and (min-width: 768px) {
   header .content .countdown {
-    font-size: 36px;
+    font-size: 55px;
   }
 }
 @media screen and (min-width: 1024px) {
   header .content .countdown {
-    font-size: 36px;
+    font-size: 55px;
   }
 }
 @media screen and (min-width: 1280px) {
   header .content .countdown {
-    font-size: 36px;
+    font-size: 55px;
   }
 }
 
